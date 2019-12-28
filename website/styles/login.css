@@ -1,0 +1,29 @@
+h1 {
+  background-color: blue;
+  text-align: center;
+}
+
+input {
+  
+  display: block;
+  margin-left: 45%;
+  margin-right: 45x%: 
+}
+
+label {
+  margin-top: 20px;
+  margin-left: 45%;
+  margin-right: 45%;
+  display: block;
+}
+
+p {
+  text-align: center;
+}
+input[type=submit] {
+  background-color: orange;
+  margin-left:auto;
+  margin-right:auto;
+  display:block;
+}
+
