@@ -1,0 +1,105 @@
+a {
+  text-decoration: none;
+  text-align: center;
+}
+body {
+/*  height: 100%;
+  margin: 0;
+  padding: 0;*/
+  background-image: url("../icons/pets2.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: sans-serif;*/
+}
+
+.register-box {
+  width: 520px;
+  height: 745px;
+  background: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  top: 50%;
+  left: 50%;
+  position: absolute;
+  transform: translate(-50%,-50%);
+  box-sizing: border-box;
+  padding: 80px 75px;
+
+}
+.avatar{
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  position: absolute;
+  top: -0px;
+  left: 43%;
+
+}
+
+h1{
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-size: 18px;
+}
+
+#paragraf {
+  margin: 0;
+  padding: 0 0 0 15px;
+  text-align: center;
+  font-size: 18px;
+}
+.register-box p {
+  margin: 0;
+  padding: 0;
+  font-weight: bold;
+}
+
+.register-box input{
+  width: 80%;
+  margin-bottom: 5px;
+}
+
+.register-box input[type="text"], input[type="password"] input[type="checkbox"] -{
+  border: none;
+  border-bottom: 1px solid #fff;
+  background: transparent;
+  outline: none;
+  height: 40px;
+  color: #fff;
+  font-size: 16px;
+}
+input[type="checkbox"] {
+  width: 20px;
+  align:left;
+  clear: both;
+}
+#register {
+  width: 50%;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  border:none;
+  outline: none;
+  height: 25px;
+  background: #1c8adb;
+  color: #fff;
+  font-size: 20px;
+  border-radius: 20px;
+
+}
+#login {
+  width: 50%;
+  text-decoration: none;
+  text-align: center;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  border:none;
+  outline: none;
+  height: 25px;
+  background: #1c8adb;
+  color: #fff;
+  font-size: 20px;
+  border-radius: 20px;
+
+}

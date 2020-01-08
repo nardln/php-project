@@ -7,7 +7,7 @@
     die("Connection failed: " . mysqli_connect_error());
   }
 
-  if (!empty($_POST)) { // If fields are not filled in...
+  if (!empty($_POST)) { // If fields are filled in...
     $errors = array();
 
     $username = $_POST['username'];

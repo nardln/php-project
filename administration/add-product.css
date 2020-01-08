@@ -1,0 +1,26 @@
+#full-description {
+  height: 148px;
+  width: 480px;
+}
+
+input {
+  border: 1px solid lightgray;
+  border-radius: 4px;
+  width: 480px;
+  height: 28px;
+}
+
+.left-side {
+  text-align: right;
+  vertical-align: top;
+}
+
+#short-description {
+  height: 148px;
+  width: 480px;
+}
+
+textarea {
+  border: 1px solid lightgray;
+  border-radius: 4px;
+}

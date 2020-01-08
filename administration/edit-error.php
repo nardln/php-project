@@ -2,9 +2,9 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>Administration</title>
+    <title></title>
   </head>
   <body>
-    
+    ERROR!
   </body>
 </html>
